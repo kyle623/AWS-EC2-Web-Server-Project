@@ -1,6 +1,6 @@
 # Building an Amazon EC2 WordPress Web Server With DNS and SSL/TLS
 
-### [Diablo 4 World Boss Tracker](https://ict171-34211995.site/)
+### [Diablo 4 World Boss Tracker](OFFLINE)
 ### [Video Explainer/Documentation Part 1](https://www.youtube.com/watch?v=5UM999FkIM4&ab_channel=kyle623)
 ### [Video Explainer/Documentation Part 2](https://www.youtube.com/watch?v=E4ZpZ1-pUnc&ab_channel=kyle623)
 ### [Video Explainer/Documentation Part 3](https://www.youtube.com/watch?v=CxRI-KjAbRs&ab_channel=kyle623)
