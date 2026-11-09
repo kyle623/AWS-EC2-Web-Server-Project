@@ -5,7 +5,7 @@
 ### [Video Explainer/Documentation Part 2](https://www.youtube.com/watch?v=E4ZpZ1-pUnc&ab_channel=kyle623)
 ### [Video Explainer/Documentation Part 3](https://www.youtube.com/watch?v=CxRI-KjAbRs&ab_channel=kyle623)
 
-## Kyle Cleofe 34211995
+## KC 
 
 ## 1. Intro
 This guide explains how to setup a WordPress web server on Amazon EC2 from scratch. We will launch an Ubuntu EC2 Instance (t2.micro or any free virtual computer), install apache and mySQL and configure WordPress on it. We will associate a Domain Name and secure it with TLS using Let's Encrypt. By the end, you will have a Webserver on wordpress site running in your custom domain with HTTPS enabled. Use the Youtube link alternatively to follow through the steps
@@ -37,11 +37,11 @@ type the code below to install apache
  sudo apt update
  sudo apt install apache2
 ```
-This will install the Apache2 web server. Check if apaceh is running by checkkign the satus or visiting the server’s IP in a browser 
+This will install the Apache2 web server. Check if Apache is running by checking the status or visiting the server’s IP in a browser 
 visit http://elasticiphere  you should see the default Apache It works! page.
 
 ## 6. install PHP and Required Extensions
-Wordpress runs on PHP  wso we need PHP and its MySQL extension on the server. We will also install MySQL server required for WP
+Wordpress runs on PHP so we need PHP and its MySQL extension on the server. We will also install MySQL server required for WP
 ```
  sudo apt install php libapache2-mod-php php-mysql  
  sudo apt install mysql-server
